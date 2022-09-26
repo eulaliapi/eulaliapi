@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eulalia
 - 🌱 I’m currently learning Front-end frameworks
-- 📫 How to reach me: eulaliapirone@gmail.com
+- 📫 Contact me [here](https://eulaliapi.github.io/contact-form.html)!
 - ✨ Visit my [website](https://eulaliapi.github.io/) 😄
 <!---
 eulaliapi/eulaliapi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
