@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Eulalia
-- 🌱 I’m currently learning Front-end frameworks
+- 🌱 Currently learning Front End frameworks
+- 🏹 Next step on my journey: Back End technologies
 - 📫 Contact me [here](https://eulaliapi.github.io/contact-form.html)!
 - ✨ Visit my [portfolio](https://eulaliapi.github.io/) 😄
 <!---
