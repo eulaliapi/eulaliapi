@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eulalia
-- 🌱 Currently learning Java
+- 🌱 Currently learning back-end technologies
 - 📫 Contact me [here](https://eulaliapi.github.io/contact-form.html)!
 - ✨ Visit my [portfolio](https://eulaliapi.github.io/) 😄
 <!---
