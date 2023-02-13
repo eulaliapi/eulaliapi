@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Eulalia
 - 🌱 Currently learning back-end technologies
-- 📫 Contact me [here](https://eulaliapi.github.io/contact-form.html)!
 - ✨ Visit my [portfolio](https://eulaliapi.github.io/) 😄
 <!---
 eulaliapi/eulaliapi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
